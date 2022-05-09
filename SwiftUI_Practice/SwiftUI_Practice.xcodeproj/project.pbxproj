@@ -12,6 +12,7 @@
 		A0E5E06028293241000B11C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E5E05F28293241000B11C1 /* Assets.xcassets */; };
 		A0E5E06328293241000B11C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E5E06228293241000B11C1 /* Preview Assets.xcassets */; };
 		A0E5E06A28293499000B11C1 /* DarkModePrac.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E5E06928293499000B11C1 /* DarkModePrac.swift */; };
+		A0E5E06C28294077000B11C1 /* CountingAnimationPrac.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E5E06B28294077000B11C1 /* CountingAnimationPrac.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A0E5E05F28293241000B11C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0E5E06228293241000B11C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A0E5E06928293499000B11C1 /* DarkModePrac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePrac.swift; sourceTree = "<group>"; };
+		A0E5E06B28294077000B11C1 /* CountingAnimationPrac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingAnimationPrac.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				A0E5E05B28293240000B11C1 /* SwiftUI_PracticeApp.swift */,
 				A0E5E05D28293240000B11C1 /* ContentView.swift */,
+				A0E5E06B28294077000B11C1 /* CountingAnimationPrac.swift */,
 				A0E5E06928293499000B11C1 /* DarkModePrac.swift */,
 				A0E5E05F28293241000B11C1 /* Assets.xcassets */,
 				A0E5E06128293241000B11C1 /* Preview Content */,
@@ -143,6 +146,7 @@
 				A0E5E05E28293240000B11C1 /* ContentView.swift in Sources */,
 				A0E5E06A28293499000B11C1 /* DarkModePrac.swift in Sources */,
 				A0E5E05C28293240000B11C1 /* SwiftUI_PracticeApp.swift in Sources */,
+				A0E5E06C28294077000B11C1 /* CountingAnimationPrac.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
