@@ -12,7 +12,8 @@ struct SwiftUI_PracticeApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            CountingAnimationPrac()
+          //  CountingAnimationPrac()
+            RefreshablePrac()
         }
     }
 }

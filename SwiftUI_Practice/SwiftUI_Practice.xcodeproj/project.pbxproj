@@ -14,6 +14,7 @@
 		A0E5E06328293241000B11C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E5E06228293241000B11C1 /* Preview Assets.xcassets */; };
 		A0E5E06A28293499000B11C1 /* DarkModePrac.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E5E06928293499000B11C1 /* DarkModePrac.swift */; };
 		A0E5E06C28294077000B11C1 /* CountingAnimationPrac.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E5E06B28294077000B11C1 /* CountingAnimationPrac.swift */; };
+		A0FD993F2834A06C00366F5C /* RefreshablePrac.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FD993E2834A06C00366F5C /* RefreshablePrac.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		A0E5E06228293241000B11C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A0E5E06928293499000B11C1 /* DarkModePrac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePrac.swift; sourceTree = "<group>"; };
 		A0E5E06B28294077000B11C1 /* CountingAnimationPrac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingAnimationPrac.swift; sourceTree = "<group>"; };
+		A0FD993E2834A06C00366F5C /* RefreshablePrac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshablePrac.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,9 +63,10 @@
 				A0E5E05D28293240000B11C1 /* ContentView.swift */,
 				A0E5E06B28294077000B11C1 /* CountingAnimationPrac.swift */,
 				A0E5E06928293499000B11C1 /* DarkModePrac.swift */,
+				A0462E0B2830D549002B3726 /* OnAppearPrac.swift */,
+				A0FD993E2834A06C00366F5C /* RefreshablePrac.swift */,
 				A0E5E05F28293241000B11C1 /* Assets.xcassets */,
 				A0E5E06128293241000B11C1 /* Preview Content */,
-				A0462E0B2830D549002B3726 /* OnAppearPrac.swift */,
 			);
 			path = SwiftUI_Practice;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0E5E05E28293240000B11C1 /* ContentView.swift in Sources */,
+				A0FD993F2834A06C00366F5C /* RefreshablePrac.swift in Sources */,
 				A0E5E06A28293499000B11C1 /* DarkModePrac.swift in Sources */,
 				A0E5E05C28293240000B11C1 /* SwiftUI_PracticeApp.swift in Sources */,
 				A0E5E06C28294077000B11C1 /* CountingAnimationPrac.swift in Sources */,
