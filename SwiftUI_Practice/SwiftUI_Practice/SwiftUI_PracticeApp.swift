@@ -13,7 +13,9 @@ struct SwiftUI_PracticeApp: App {
         WindowGroup {
 //            ContentView()
           //  CountingAnimationPrac()
-            RefreshablePrac()
+           // RefreshablePrac()
+            GeometryReaderPrac()
+            
         }
     }
 }

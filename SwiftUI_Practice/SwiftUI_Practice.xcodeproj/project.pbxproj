@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A0462E0C2830D549002B3726 /* OnAppearPrac.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0462E0B2830D549002B3726 /* OnAppearPrac.swift */; };
+		A0E584CF283A69CD00FEB187 /* GeometryReaderPrac.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E584CE283A69CD00FEB187 /* GeometryReaderPrac.swift */; };
 		A0E5E05C28293240000B11C1 /* SwiftUI_PracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E5E05B28293240000B11C1 /* SwiftUI_PracticeApp.swift */; };
 		A0E5E05E28293240000B11C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E5E05D28293240000B11C1 /* ContentView.swift */; };
 		A0E5E06028293241000B11C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E5E05F28293241000B11C1 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		A0462E0B2830D549002B3726 /* OnAppearPrac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearPrac.swift; sourceTree = "<group>"; };
+		A0E584CE283A69CD00FEB187 /* GeometryReaderPrac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderPrac.swift; sourceTree = "<group>"; };
 		A0E5E05828293240000B11C1 /* SwiftUI_Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0E5E05B28293240000B11C1 /* SwiftUI_PracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_PracticeApp.swift; sourceTree = "<group>"; };
 		A0E5E05D28293240000B11C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				A0FD993E2834A06C00366F5C /* RefreshablePrac.swift */,
 				A0E5E05F28293241000B11C1 /* Assets.xcassets */,
 				A0E5E06128293241000B11C1 /* Preview Content */,
+				A0E584CE283A69CD00FEB187 /* GeometryReaderPrac.swift */,
 			);
 			path = SwiftUI_Practice;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				A0FD993F2834A06C00366F5C /* RefreshablePrac.swift in Sources */,
 				A0E5E06A28293499000B11C1 /* DarkModePrac.swift in Sources */,
 				A0E5E05C28293240000B11C1 /* SwiftUI_PracticeApp.swift in Sources */,
+				A0E584CF283A69CD00FEB187 /* GeometryReaderPrac.swift in Sources */,
 				A0E5E06C28294077000B11C1 /* CountingAnimationPrac.swift in Sources */,
 				A0462E0C2830D549002B3726 /* OnAppearPrac.swift in Sources */,
 			);
